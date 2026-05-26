@@ -1,0 +1,6 @@
+{
+  "name": "Digital Harmonic Field",
+  "description": "Uma página de apresentação e download para o aplicativo Android Digital Harmonic Field, voltado a músicos de igreja.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
